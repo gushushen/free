@@ -227,8 +227,8 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://live.iill.top/huya.php?id=660000
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
 http://live.iill.top/huya.php?id=660001
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟙
-http://live.iill.top/douyu.php?id=288016
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」K9
+http://live.iill.top/douyu.php?id=235520
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟚
 http://live.iill.top/douyu.php?id=998
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」王者荣耀 𝟙
