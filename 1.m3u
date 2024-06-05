@@ -223,20 +223,20 @@ http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟞「IPV6」
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙dota2」徐志雷burning
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙 dota2」徐志雷burning
 http://live.iill.top/huya.php?id=520888
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙dota2」SDN
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙 dota2」SDN
 http://live.iill.top/huya.php?id=310112
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼dota2」K9
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼 dota2」K9
 http://live.iill.top/douyu.php?id=235520
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼 绝地求生」邦Sa
 http://live.iill.top/douyu.php?id=5720533
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」王者荣耀 𝟙
-http://live.iill.top/huya.php?id=660002
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙dota2」TI重播
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙 dota2」Sccc
+http://live.iill.top/huya.php?id=123888
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙 dota2」TI重播
 http://live.iill.top/huya.php?id=660118
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」王者荣耀 𝟙
-http://live.iill.top/douyu.php?id=1863767
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼 dota2」YffYff
+http://live.iill.top/douyu.php?id=9999
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」王者荣耀 𝟚
 http://live.iill.top/douyu.php?id=1984839
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」绝地求生 𝟙
