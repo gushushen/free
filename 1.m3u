@@ -225,6 +225,10 @@ http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="游戏赛事",「虎牙 dota2」徐志雷burning
 http://live.iill.top/huya.php?id=520888
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」哔哩哔哩刀塔2赛事
+http://live.iill.top/bilibili.php?id=84001
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」完美世界电竞频道dota2
+http://live.iill.top/bilibili.php?id=333.337.0.0
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="游戏赛事",「虎牙 dota2」SDN
 http://live.iill.top/huya.php?id=310112
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="游戏赛事",「斗鱼 dota2」K9
